@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:map_view/map_view.dart';
+//import 'package:map_view/map_view.dart';
 
 void main() {
-  MapView.setApiKey("AIzaSyBn1X-jZa76g-pt8f-Y-1H2dKLy8X9HrW8");
+//  MapView.setApiKey("AIzaSyBn1X-jZa76g-pt8f-Y-1H2dKLy8X9HrW8");
   runApp(MyApp());
 }
 
